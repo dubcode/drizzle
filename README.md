@@ -1,0 +1,26 @@
+<<<<<<< HEAD
+# ultr4
+
+> My prime Nuxt.js project
+
+## Build Setup
+
+```bash
+# install dependencies
+$ npm install
+
+# serve with hot reload at localhost:3000
+$ npm run dev
+
+# build for production and launch server
+$ npm run build
+$ npm run start
+
+# generate static project
+$ npm run generate
+```
+
+For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+=======
+# Nuxt-BP-2020
+>>>>>>> 4e797eda4270751c19822c0e3426b026d43549e1
